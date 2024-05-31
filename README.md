@@ -12,8 +12,7 @@ A simple tribute page dedicated to the legendary footballer, Pelé. This project
 
 ![Screenshot 2024-05-31 230118](https://github.com/Kundan696922/tribute_page/assets/159406079/d5fae314-d7ed-4f9f-99f6-ec0635319005)
 
-## Feat!
-ures
+## Features!
 
 - Contains a brief biography of Pelé
 - Includes images of Pelé
