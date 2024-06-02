@@ -2,7 +2,7 @@
 
 A simple tribute page dedicated to the legendary footballer, Pelé. This project was created using HTML and CSS as a part of my learning journey in web development.
 
-## Screenshot
+## Overview 
 ![Screenshot 2024-05-31 230018](https://github.com/Kundan696922/tribute_page/assets/159406079/2d100f80-0231-4933-a08d-435bf5bf22cf)
 
 ![Screenshot 2024-05-31 230042](https://github.com/Kundan696922/tribute_page/assets/159406079/a8aa91fb-787d-43aa-9142-dc6796e2feb5)
